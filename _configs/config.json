@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "dendyramdhan",
+    "password": null,
+    "database": "mitrais_coding_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": 0
+  },
+  "test": {
+    "username": "dendyramdhan",
+    "password": null,
+    "database": "mitrais_coding_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": 0
+  },
+  "production": {
+    "username": "dendyramdhan",
+    "password": null,
+    "database": "mitrais_coding_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": 0
+  },
+  "secret": "mitraisCodingTest"
+}
